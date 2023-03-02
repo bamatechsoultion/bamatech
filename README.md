@@ -1,0 +1,2 @@
+# bamatech
+bamatech beta version
